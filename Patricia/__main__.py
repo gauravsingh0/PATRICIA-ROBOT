@@ -75,47 +75,47 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """                   
-𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦[💞𝐏𝐀𝐓𝐑𝐈𝐂𝐈𝐀💞](https://telegra.ph/file/98d680b99fa76452ccfb0.jpg)
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦[𝐏𝐘𝐑𝐀𝐓𝐄𝐒](https://telegra.ph/file/ccbfe11dd80be47648e71.jpg)
 𝐈 𝐚𝐦 𝐚𝐧 𝐚𝐧𝐢𝐦𝐞 𝐓𝐡𝐞𝐦𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐁𝐨𝐭!𝐈 𝐰𝐢𝐥𝐥 𝐡𝐞𝐥𝐩 𝐢𝐧 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩!
 𝐂𝐥𝐢𝐜𝐤📗𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒📗𝐛𝐮𝐭𝐭𝐨𝐧 𝐭𝐨 𝐜𝐡𝐞𝐜𝐤 𝐟𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬\n
 ✪ 𝐌𝐚𝐤𝐞 𝐬𝐮𝐫𝐞 𝐲𝐨𝐮 𝐣𝐨𝐢𝐧 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩 ✪ \n
-𝐌𝐘 𝐁𝐅 :- [𝐁𝐋𝐀𝐙𝐄](t.me/piroXpower)
+𝐌𝐘 𝐁𝐅 :- [𝐆𝐀𝐔𝐑𝐀𝐕](t.me/Black_heart_hacker_xon)
 """
 buttons = [
     [
         InlineKeyboardButton(
-            text="🛰️𝐒𝐔𝐌𝐌𝐎𝐍 𝐌𝐄 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏🛰️", url="t.me/patricia_Robot?startgroup=true"),
+            text="𝐒𝐔𝐌𝐌𝐎𝐍 𝐌𝐄 𝐓𝐎 𝐆𝐑𝐎𝐔𝐏", url="t.me/pyratesX_robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🗞️𝐔𝐏𝐃𝐀𝐓𝐄🗞️", url="https://t.me/patricia_updates"),
+        InlineKeyboardButton(text="𝐔𝐏𝐃𝐀𝐓𝐄𝐒", url="https://t.me/grb_network"),
         InlineKeyboardButton(
-            text="⚓𝐒𝐔𝐏𝐏𝐎𝐑𝐓⚓", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url=f"https://t.me/yone_support_official"
         ),
     ],
     [
         InlineKeyboardButton(text="📚𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒📚", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="𝐕𝐂-𝐏𝐋𝐀𝐘𝐄𝐑📀", url="https://telegra.ph/BLAZE-06-05-2"),
+        InlineKeyboardButton(text="𝐅𝐄𝐃𝐑𝐀𝐓𝐈𝐎𝐍", url="https://t.me/grb_network/25"),
         InlineKeyboardButton(
-            text="🎧𝐌𝐔𝐒𝐈𝐂-𝐖𝐎𝐑𝐋𝐃🎧", url=f"https://t.me/frndsXworld"
+            text="𝐂𝐇𝐈𝐓-𝐂𝐇𝐀𝐓", url=f"https://t.me/yone_support_official"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`𝐇𝐈,𝐈 𝐀𝐌 [𝐏𝐀𝐓𝐑𝐈𝐂𝐈𝐀💞]
+`𝐇𝐈,𝐈 𝐀𝐌 [𝐏𝐘𝐑𝐀𝐓𝐄𝐒]
 -𝐈 𝐚𝐦 𝐡𝐞𝐫𝐞 𝐭𝐨 𝐦𝐚𝐧𝐚𝐠𝐞 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐩𝐞𝐫𝐟𝐞𝐜𝐭𝐥𝐲..
--𝐈 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐩𝐥𝐚𝐲 𝐦𝐮𝐬𝐢𝐜 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐕𝐂
+-𝐈 𝐜𝐚𝐧 𝐚𝐥𝐬𝐨 𝐩𝐫𝐨𝐭𝐞𝐜𝐭 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩 𝐟𝐫𝐨𝐦 𝐬𝐩𝐚𝐦𝐦𝐞𝐫𝐬
 -𝐘𝐨𝐮 𝐜𝐚𝐧 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐦𝐞  𝐛𝐲 𝐮𝐬𝐢𝐧𝐠 "!","/" 𝐬𝐲𝐦𝐛𝐨𝐥𝐬..`
 """
 
 
-patricia_IMG = "https://telegra.ph/file/98d680b99fa76452ccfb0.jpg"
+patricia_IMG = "https://telegra.ph/file/ccbfe11dd80be47648e71.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting [BLAZE](t.me/piroXpower)\
+ You can support the project via [Paypal](#) or by contacting [GAURAV](t.me/Black_heart_hacker_xon)\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
@@ -362,9 +362,9 @@ def patricia_about_callback(update, context):
     query = update.callback_query
     if query.data == "patricia_":
         query.message.edit_text(
-            text="""ℹ️ 𝙷𝙸 𝙸 𝙰𝙼 patricia 𝙱𝙾𝚃 ..𝙸 𝙲𝙰𝙽 𝙴𝙰𝚂𝙸𝙻𝚈 𝙼𝙰𝙽𝙰𝙶𝙴 𝚄𝚁 𝙶𝚁𝙿 😉.\n 𝙼𝚈 𝙱𝙵 :- [BLAZE](t.me/piroXpower)❤️😈.
+            text="""ℹ️ 𝙷𝙸 𝙸 𝙰𝙼 𝙿𝚈𝚁𝙰𝚃𝙴𝚂 𝙱𝙾𝚃 ..𝙸 𝙲𝙰𝙽 𝙴𝙰𝚂𝙸𝙻𝚈 𝙼𝙰𝙽𝙰𝙶𝙴 𝚄𝚁 𝙶𝚁𝙿 😉.\n 𝙼𝚈 𝙱𝙵 :- [𝙶𝙰𝚄𝚁𝙰𝚅](t.me/Black_heart_hacker_xon)❤️😈.
         
-           😎\n\n 𝙸𝙵 𝚈𝙾𝚄 𝙷𝙰𝚅𝙴 𝙰𝙽𝚈 𝚀𝚄𝙴𝚂𝚃𝙸𝙾𝙽 𝙰𝙱𝙾𝚄𝚃 patricia 𝙱𝙾𝚃 𝙻𝙴𝚃 𝚄𝚂 𝙺𝙽𝙾𝚆 𝙰𝚃 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿](https://t.me/patricia_support)🇮🇳.""",
+           😎\n\n 𝙸𝙵 𝚈𝙾𝚄 𝙷𝙰𝚅𝙴 𝙰𝙽𝚈 𝚀𝚄𝙴𝚂𝚃𝙸𝙾𝙽 𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃 𝙻𝙴𝚃 𝚄𝚂 𝙺𝙽𝙾𝚆 𝙰𝚃 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿](https://t.me/yone_support_official)🇮🇳.""",
             
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -391,7 +391,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *Patricia*
+            text=""" Hi..🤗 I'm *PYRATES*
                  \nHere is the [Source Code](Nikal bhsdk) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
